@@ -1,0 +1,26 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite">
+
+
+
+
+<test name="Learning Open the application">
+    <classes>
+        <class name="Test.OpenApp" ></class>  
+    </classes>
+</test>
+
+<test name="TestNG testing">
+    <classes>
+        <class name="Test.TestNG1" ></class>  
+    </classes>
+</test>
+
+<test name="Final Application Testing">
+    <classes>
+        <class name="Test.TestApp" ></class>  
+    </classes>
+</test>
+
+
+</suite>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My Sample Suite" duration-ms="13376" started-at="2015-11-25T01:31:42Z" finished-at="2015-11-25T01:31:55Z">
+    <groups>
+    </groups>
+    <test name="Learning Open the application" duration-ms="13334" started-at="2015-11-25T01:31:42Z" finished-at="2015-11-25T01:31:55Z">
+      <class name="Test.OpenApp">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Test.OpenApp@e580929]" name="beforeTest" is-config="true" duration-ms="13315" started-at="2015-11-24T20:31:42Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="gotoLogin()[pri:0, instance:Test.OpenApp@e580929]" name="gotoLogin" duration-ms="0" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoLogin -->
+        <test-method status="PASS" signature="BroserClose()[pri:0, instance:Test.OpenApp@e580929]" name="BroserClose" duration-ms="0" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BroserClose -->
+      </class> <!-- Test.OpenApp -->
+    </test> <!-- Learning Open the application -->
+    <test name="TestNG testing" duration-ms="3" started-at="2015-11-25T01:31:55Z" finished-at="2015-11-25T01:31:55Z">
+      <class name="Test.TestNG1">
+        <test-method status="PASS" signature="Fist()[pri:0, instance:Test.TestNG1@6442b0a6]" name="Fist" duration-ms="0" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fist -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.TestNG1@6442b0a6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Third()[pri:0, instance:Test.TestNG1@6442b0a6]" name="Third" duration-ms="1" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Third -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.TestNG1@6442b0a6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Second()[pri:0, instance:Test.TestNG1@6442b0a6]" name="Second" duration-ms="0" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Second -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.TestNG1@6442b0a6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Test.TestNG1@6442b0a6]" name="afterTest" is-config="true" duration-ms="0" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Test.TestNG1 -->
+    </test> <!-- TestNG testing -->
+    <test name="Final Application Testing" duration-ms="2" started-at="2015-11-25T01:31:55Z" finished-at="2015-11-25T01:31:55Z">
+      <class name="Test.TestApp">
+        <test-method status="PASS" signature="print()[pri:0, instance:Test.TestApp@1554909b]" name="print" duration-ms="0" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+        <test-method status="PASS" signature="multi()[pri:0, instance:Test.TestApp@1554909b]" name="multi" duration-ms="1" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multi -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:Test.TestApp@1554909b]" name="sum" duration-ms="0" started-at="2015-11-24T20:31:55Z" finished-at="2015-11-24T20:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- Test.TestApp -->
+    </test> <!-- Final Application Testing -->
+  </suite> <!-- My Sample Suite -->
+</testng-results>
